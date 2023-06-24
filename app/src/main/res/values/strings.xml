@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name= "CheckBoxRememberMe">Remember me</string>
+    <string name="ButtonLogin">Login</string>
+</resources>

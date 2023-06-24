@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tirkiz">#67c9c5</color>
+    <color name="tirkizgreen">#cbf5ed</color>
+</resources>
